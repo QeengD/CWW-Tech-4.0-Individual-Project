@@ -1,0 +1,7 @@
+import pandas as pd
+
+durations_df = pd.DataFrame(movie_dict)
+print(durations_df)
+
+
+
